@@ -1,9 +1,5 @@
 ## EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 
-```
-DEVELOPED BY : SRIRAJ G
-Reg No : 212222040161
-```
 
 ## Aim:
   To Perform Data Visualization using matplot python library for the given datas.
